@@ -18,10 +18,10 @@ Built during my CodeAlpha Internship to strengthen skills in Flutter, Hive, Prov
 ## 📸 Screenshots
 
 ### Home Screen
-![Home Screen](images/home_screen.png)
+![Home Screen](assets/images/home_screen.png)
 
 ### Favorites Screen
-![Favorites Screen](images/favorites_screen.png)
+![Favorites Screen](assets/images/favorites_screen.png)
 
 ---
 
