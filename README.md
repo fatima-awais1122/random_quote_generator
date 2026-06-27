@@ -1,17 +1,32 @@
-# codealpha_random_quote_generator
+# 📱 Random Quote Generator App
 
-A new Flutter project.
+🚀 A Flutter app that generates random quotes with favorites toggle and sharing feature.  
+Built during my CodeAlpha Internship to strengthen skills in Flutter, Hive, Provider, and Firebase.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
+- ❤️ Favorite quotes toggle (red heart animation)
+- 🌙 Dark mode support
+- 📱 Smooth UI with animations
+- 🔍 Search & categories
+- 📤 Share quotes with friends
+- 💾 Hive local storage for favorites
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## 📸 Screenshots
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Home Screen
+![Home Screen](images/home_screen.png)
+
+### Favorites Screen
+![Favorites Screen](images/favorites_screen.png)
+
+---
+
+## 🚀 Getting Started
+
+Clone the repo:
+```bash
+git clone https://github.com/fatima-awais1122/random_quote_generator.git
